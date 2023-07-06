@@ -1,1 +1,1 @@
-This is a readme for alx python projects
+This is alx
